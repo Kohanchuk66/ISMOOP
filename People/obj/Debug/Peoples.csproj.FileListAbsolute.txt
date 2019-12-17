@@ -1,0 +1,6 @@
+C:\с#\ISMOOP\People\obj\Debug\Peoples.csprojAssemblyReference.cache
+C:\с#\ISMOOP\People\bin\Debug\People.exe.config
+C:\с#\ISMOOP\People\bin\Debug\People.exe
+C:\с#\ISMOOP\People\bin\Debug\People.pdb
+C:\с#\ISMOOP\People\obj\Debug\People.exe
+C:\с#\ISMOOP\People\obj\Debug\People.pdb
